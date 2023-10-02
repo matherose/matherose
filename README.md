@@ -1,11 +1,13 @@
-# Get off my lawn ! 
+# Welcome to my virtual playground! ☕️
 
-### Nah, I'm just kidding, you can stay.
-I'm matherose, I'm 23, French (yes i know, oui oui, la baguette, croissant etc...), a developer and systems administrator... single and incredibly handsome (listen, nothing ventured, nothing gained).
+Hey there, I'm **Matherose**, a 23-year-old French developer and system administrator hailing from the land of baguettes and croissants. But trust me, it's not all clichés! (except that I'm incredibly handsome and single)
 
-My everyday motto is "Light is right".
+## My Mantra: "Light is Right" 💡
 
-I use as little technology as possible, which may improve the developer's quality of life, but stifles the software's performance.
-If I can do it in C or Bash, then I don't need anything else, but don't worry, I know how to use all the trendy DevOps tools (at some point I have to eat too).
+I'm a firm advocate of using the most minimal technologies to supercharge the performance of my software. I don't mind investing extra time in it—some might even wonder if I have a hidden passion for BDSM, but rest assured, my penchant is for software optimization. I'm always up for the challenge, especially when GCC pushes my limits.
 
-Oh, and by the way, I'm addicted to coffee, so if you want to talk to me or seduce me (don't forget, I'm always interested), you've earned lot of points.
+## Code and Coffee ☕️
+
+Give me C or Shell/Bash, and I'm ready to rock. But don't worry, I can harness all those trendy DevOps tools when the situation calls for it (I will always need to eat and feed my cat 😿). 
+
+If you want to chat or even attempt to seduce me (hey, I'm always open to that), you've just scored some major points. Let's code and caffeinate together! 🚀
