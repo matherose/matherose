@@ -1,6 +1,6 @@
 # Welcome to my virtual playground! ☕️
 
-Hey there, I'm **Matherose**, a 23-year-old French developer and system administrator hailing from the land of baguettes and croissants. But trust me, it's not all clichés! (except that I'm incredibly handsome)
+Hey there, I'm **Matherose**, a 23-year-old French developer and system administrator hailing from the land of baguettes and croissants. But trust me, it's not all clichés! (except that I'm incredibly handsome 🤌✨... but single 😭)
 
 ## My Mantra: "Light is Right" 💡
 
@@ -10,4 +10,4 @@ I'm a firm advocate of using the most minimal technologies to supercharge the pe
 
 Give me C or Shell/Bash, and I'm ready to rock. But don't worry, I can harness all those trendy DevOps tools when the situation calls for it (I will always need to eat and feed my cat 😿)
 
-If you want to chat or even attempt to seduce me (hey, I'm always open to that), you've just scored some major points. Let's code and caffeinate together! 🚀
+If you want to chat or even attempt to seduce me (i'm still single btw 👀) with a coffee or anything with caffeine, you've just scored some major points. Let's code and caffeinate together! 🚀
