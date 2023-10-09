@@ -1,6 +1,6 @@
 # Welcome to my virtual playground! ☕️
 
-Hey there, I'm **Matherose**, a 23-year-old French developer and system administrator hailing from the land of baguettes and croissants. But trust me, it's not all clichés! (except that I'm incredibly handsome and single)
+Hey there, I'm **Matherose**, a 23-year-old French developer and system administrator hailing from the land of baguettes and croissants. But trust me, it's not all clichés! (except that I'm incredibly handsome)
 
 ## My Mantra: "Light is Right" 💡
 
